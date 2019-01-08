@@ -8,10 +8,10 @@
 [//]: # ([Web] Armory doesnt work)
 [//]: # (To find server revision type `.server info` command in the game chat.)
 
-**Description**: 
+**Description**: Mage Evocation
 
-**Current behaviour**:
+**Current behaviour**: Causes decent amount of aggro gain.
 
-**Expected behaviour**: 
+**Expected behaviour**: Should not cause any aggro gain.
 
 **Server Revision**: 
